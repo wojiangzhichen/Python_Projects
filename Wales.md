@@ -2,4 +2,4 @@ Mountains In Wales
 ==================
 
 * Tryfan
-* Snowdon
+* Yr Wyddfa
